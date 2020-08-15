@@ -14,7 +14,7 @@
 •    You can choose an actual event to play with your friends, or even better...
 •    Create your own map with custom parties, no more server raiders.
 
-![Amazing Perks inside!](https://i.ibb.co/FDF4546/greenloot1.png)
+![Amazing Perks inside!](https://i.ibb.co/nbfkjvF/greenloot1.png)
 
 ## Skins and Emotes
 •    Show the world your creativity by creating your own skin, or
