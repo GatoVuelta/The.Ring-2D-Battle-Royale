@@ -50,10 +50,12 @@
  What are you waiting for?
 You can download [The.Ring] from Itch.io or from our other platforms, if you would like to know more, join our Discord server here: https://discord.com/invite/DTzwkT2
 
-# Download links available from Aug 15:
-•    Itch.io
-•    Gamedev.net
-•    Github
-•    Discord Community
+# Download links available from... Today!
+Download links available from… today!:
+
+•    Direct download (recommended) https://github.com/DixDev/The.Ring-2D-Battle-Royale/releases/download/0.0.0.1/TheRing.Official.Windows.App.exe
+•    Itch.io: https://komodroid.itch.io/the-ring-game
+•    Gamedev.net: https://www.gamedev.net/projects/2823-thering-2d-battle-royale/
+•    Github:  (Go to "Releases")
 
 _Bonus: Are online modes available? No, they aren´t yet, but you can help us by making a donation. By donating, we can buy servers for online modes 😀_
