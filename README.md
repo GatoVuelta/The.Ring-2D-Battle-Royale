@@ -1,4 +1,4 @@
-# [The.Ring] 2D Battle Royale 
+# [The.Ring] 2D Battle Royale (DISCONTINUED)
 
 ![Best rated 2D Battle Royale Indie Game of 2020] 🥇
 
